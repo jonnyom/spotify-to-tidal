@@ -10,4 +10,8 @@ targets:
 
 crystal: 0.31.1
 
+dependencies:
+  retriable:
+    github: Sija/retriable.cr
+
 license: MIT
