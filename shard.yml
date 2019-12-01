@@ -1,0 +1,13 @@
+name: spotify-to-tidal
+version: 0.1.0
+
+authors:
+  - Jonny <jonathanomahony@gmail.com>
+
+targets:
+  spotify-to-tidal:
+    main: src/spotify-to-tidal.cr
+
+crystal: 0.31.1
+
+license: MIT
